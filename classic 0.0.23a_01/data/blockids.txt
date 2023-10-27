@@ -41,3 +41,6 @@ brown_mushroom
 red_mushroom
 block_of_gold
 bedrock
+//
+wood_top
+grass_top
