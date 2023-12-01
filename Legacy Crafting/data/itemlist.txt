@@ -569,6 +569,7 @@ slime_ball
 slime_block
 snow
 snowball
+snow_layer
 soul_sand
 spawn_egg
 spawn_egg_overlay
