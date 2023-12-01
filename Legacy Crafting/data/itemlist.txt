@@ -512,7 +512,7 @@ purpur_pillar_top
 quartz
 quartz_block_bottom
 quartz_block_side
-quartz_block_top
+quartz_block
 quartz_pillar
 quartz_pillar_top
 rabbit
