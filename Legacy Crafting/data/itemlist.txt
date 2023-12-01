@@ -11,7 +11,7 @@ activator_rail
 activator_rail_on
 allium
 andesite
-anvil_top
+anvil
 apple
 armor_stand
 arrow
@@ -53,7 +53,7 @@ blue_terracotta
 blue_wool
 bone
 bone_block_side
-bone_block_top
+bone_block
 bone_meal
 book
 bookshelf
@@ -103,15 +103,21 @@ chainmail_chestplate
 chainmail_helmet
 chainmail_leggings
 charcoal
+chest
+chest-christmas
+trapped_chest
+ender_chest
 chest_minecart
 chicken
-chipped_anvil_top
+chipped_anvil
+chiseled_stone_bricks
 chiseled_quartz_block
 chiseled_quartz_block_top
 chiseled_red_sandstone
 chiseled_sandstone
 chorus_flower_dead
 chorus_fruit
+clay
 clay_ball
 clock_00
 coal
@@ -142,7 +148,7 @@ cooked_rabbit
 cooked_salmon
 cookie
 cracked_stone_bricks
-crafting_table_front
+crafting_table
 cut_red_sandstone
 cut_sandstone
 cyan_concrete
@@ -153,7 +159,7 @@ cyan_shulker_box
 cyan_stained_glass
 cyan_terracotta
 cyan_wool
-damaged_anvil_top
+damaged_anvil
 dandelion
 dandelion_yellow
 dark_oak_boat
@@ -215,7 +221,7 @@ empty_armor_slot_leggings
 empty_armor_slot_shield
 enchanted_book
 enchanting_table_bottom
-enchanting_table_side
+enchanting_table
 end_crystal
 end_portal_frame_top
 end_rod
@@ -245,7 +251,7 @@ flint
 flint_and_steel
 flower_pot
 frosted_ice_0
-furnace_front
+furnace
 furnace_front_on
 furnace_minecart
 ghast_tear
