@@ -456,6 +456,7 @@ mycelium_top
 name_tag
 nautilus_shell
 nether_brick
+nether_brick_fence
 nether_bricks
 nether_portal
 nether_quartz_ore
