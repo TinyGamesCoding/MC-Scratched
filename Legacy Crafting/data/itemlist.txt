@@ -2,6 +2,8 @@ acacia_boat
 acacia_door
 acacia_door_bottom
 acacia_door_top
+acacia_fence
+acacia_fence_gate
 acacia_leaves
 acacia_log
 acacia_planks
@@ -20,6 +22,22 @@ baked_potato
 barrier
 beacon
 bedrock
+bed_black
+bed_blue
+bed_brown
+bed_cyan
+bed_gray
+bed_green
+bed_light_blue
+bed_lime
+bed_magenta
+bed_orange
+bed_pink
+bed_purple
+bed_red
+bed_silver
+bed_white
+bed_yellow
 beef
 beetroot
 beetroot_seeds
@@ -28,6 +46,8 @@ birch_boat
 birch_door
 birch_door_bottom
 birch_door_top
+birch_fence
+birch_fence_gate
 birch_leaves
 birch_log
 birch_planks
@@ -94,7 +114,7 @@ carrots_stage3
 carved_pumpkin
 cauldron
 cauldron_side
-chain_command_block_back
+chain_command_block
 chain_command_block_conditional
 chain_command_block_front
 chain_command_block_side
@@ -107,6 +127,7 @@ chest
 chest-christmas
 trapped_chest
 ender_chest
+ender_chest-christmas
 chest_minecart
 chicken
 chipped_anvil
@@ -125,12 +146,13 @@ coal_block
 coal_ore
 coarse_dirt
 cobblestone
+cobblestone_wall
 cobweb
 cocoa_beans
 cocoa_stage2
 cod
 cod_bucket
-command_block_back
+command_block
 command_block_conditional
 command_block_front
 command_block_minecart
@@ -165,6 +187,8 @@ dandelion_yellow
 dark_oak_boat
 dark_oak_door
 dark_oak_door_bottom
+dark_oak_fence
+dark_oak_fence_gate
 dark_oak_leaves
 dark_oak_log
 dark_oak_planks
@@ -237,7 +261,7 @@ fermented_spider_eye
 fern
 filled_map
 filled_map_markings
-fire_0
+fire
 fire_charge
 fire_coral
 fire_coral_block
@@ -336,6 +360,8 @@ jukebox_top
 jungle_boat
 jungle_door
 jungle_door_bottom
+jungle_fence
+jungle_fence_gate
 jungle_leaves
 jungle_log
 jungle_planks
@@ -350,7 +376,7 @@ lapis_lazuli
 lapis_ore
 large_fern_top
 lava_bucket
-lava_still
+lava
 lead
 leather
 leather_boots
@@ -397,7 +423,7 @@ magenta_shulker_box
 magenta_stained_glass
 magenta_terracotta
 magenta_wool
-magma
+magma_block
 magma_cream
 map
 melon_seeds
@@ -407,6 +433,7 @@ melon_stem
 milk_bucket
 minecart
 mossy_cobblestone
+mossy_cobblestone_wall
 mossy_stone_bricks
 mushroom_block_inside
 mushroom_stem
@@ -441,6 +468,8 @@ note_block
 oak_boat
 oak_door
 oak_door_bottom
+oak_fence
+oak_fence_gate
 oak_leaves
 oak_log
 oak_log_top
@@ -541,7 +570,7 @@ redstone_lamp
 redstone_ore
 redstone_torch
 repeater
-repeating_command_block_back
+repeating_command_block
 repeating_command_block_conditional
 repeating_command_block_front
 repeating_command_block_side
@@ -582,6 +611,8 @@ spruce_boat
 spruce_door
 spruce_door_bottom
 spruce_door_top
+spruce_fence
+spruce_fence_gate
 spruce_leaves
 spruce_log
 spruce_log_top
@@ -640,7 +671,7 @@ turtle_helmet
 vine
 water_bucket
 water_overlay
-water_still
+water
 wet_sponge
 wheat
 wheat_seeds
