@@ -531,7 +531,7 @@ pink_terracotta
 pink_tulip
 pink_wool
 piston
-piston_sticky
+sticky_piston
 podzol
 podzol_top
 poisonous_potato
