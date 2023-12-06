@@ -143,7 +143,7 @@ chorus_flower_dead
 chorus_fruit
 clay
 clay_ball
-clock_00
+clock
 coal
 coal_block
 coal_ore
@@ -164,7 +164,7 @@ command_block_minecart
 command_block_side
 comparator
 comparator_on
-compass_00
+compass
 conduit
 cooked_beef
 cooked_chicken
