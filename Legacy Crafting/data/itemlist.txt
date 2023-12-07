@@ -343,7 +343,7 @@ green_stained_glass
 green_terracotta
 green_wool
 gunpowder
-hay_block_side
+hay_block
 hay_block_top
 heart_of_the_sea
 hopper
