@@ -374,7 +374,7 @@ iron_trapdoor
 item_frame
 jack_o_lantern
 jukebox_side
-jukebox_top
+jukebox
 jungle_boat
 jungle_button
 jungle_door
