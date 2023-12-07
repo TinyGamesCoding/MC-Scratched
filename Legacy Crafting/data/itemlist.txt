@@ -504,7 +504,7 @@ oak_sapling
 oak_slab
 oak_stairs
 oak_trapdoor
-observer_front
+observer
 obsidian
 orange_concrete
 orange_concrete_powder
