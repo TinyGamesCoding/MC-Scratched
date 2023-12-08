@@ -731,7 +731,7 @@ terracotta
 tipped_arrow_base
 tipped_arrow_head
 tnt_minecart
-tnt_side
+tnt
 torch
 totem_of_undying
 trapped_chest
