@@ -1,8 +1,6 @@
 acacia_boat
 acacia_button
 acacia_door
-acacia_door_bottom
-acacia_door_top
 acacia_fence
 acacia_fence_gate
 acacia_leaves
@@ -14,7 +12,6 @@ acacia_slab
 acacia_stairs
 acacia_trapdoor
 activator_rail
-activator_rail_on
 allium
 andesite
 anvil
@@ -49,8 +46,6 @@ beetroot_soup
 birch_boat
 birch_button
 birch_door
-birch_door_bottom
-birch_door_top
 birch_fence
 birch_fence_gate
 birch_leaves
@@ -90,9 +85,6 @@ bone_meal
 book
 bookshelf
 bow
-bow_pulling_0
-bow_pulling_1
-bow_pulling_2
 bowl
 brain_coral
 brain_coral_block
@@ -121,7 +113,7 @@ bubble_coral_block
 bubble_coral_fan
 bucket
 cactus_green
-cactus_side
+cactus
 cake
 cake_top
 carrot
@@ -131,9 +123,6 @@ carved_pumpkin
 cauldron
 cauldron_side
 chain_command_block
-chain_command_block_conditional
-chain_command_block_front
-chain_command_block_side
 chainmail_boots
 chainmail_chestplate
 chainmail_helmet
@@ -164,14 +153,10 @@ cobblestone_stairs
 cobblestone_wall
 cobweb
 cocoa_beans
-cocoa_stage2
 cod
 cod_bucket
 command_block
-command_block_conditional
-command_block_front
 command_block_minecart
-command_block_side
 comparator
 comparator_on
 compass
@@ -204,7 +189,6 @@ dandelion_yellow
 dark_oak_boat
 dark_oak_button
 dark_oak_door
-dark_oak_door_bottom
 dark_oak_fence
 dark_oak_fence_gate
 dark_oak_leaves
@@ -268,10 +252,9 @@ empty_armor_slot_leggings
 empty_armor_slot_shield
 enchanted_book
 enchanted_golden_apple
-enchanting_table_bottom
 enchanting_table
 end_crystal
-end_portal_frame_top
+end_portal_frame
 end_rod
 end_stone
 end_stone_bricks
@@ -329,12 +312,10 @@ golden_shovel
 golden_sword
 granite
 grass
-grass_block_side
-grass_block_side_overlay
+grass_block
+grass_block_overlay
 grass_block_snow
-grass_block_top
-grass_path_side
-grass_path_top
+grass_path
 gravel
 gray_concrete
 gray_concrete_powder
@@ -357,7 +338,6 @@ green_carpet
 green_wool
 gunpowder
 hay_block
-hay_block_top
 heart_of_the_sea
 heavy_weighted_pressure_plate
 hopper
@@ -387,12 +367,10 @@ iron_sword
 iron_trapdoor
 item_frame
 jack_o_lantern
-jukebox_side
 jukebox
 jungle_boat
 jungle_button
 jungle_door
-jungle_door_bottom
 jungle_fence
 jungle_fence_gate
 jungle_leaves
@@ -404,7 +382,6 @@ jungle_slab
 jungle_stairs
 jungle_trapdoor
 kelp
-kelp_plant
 knowledge_book
 ladder
 lapis_block
@@ -496,8 +473,7 @@ music_disc_strad
 music_disc_wait
 music_disc_ward
 mutton
-mycelium_side
-mycelium_top
+mycelium
 name_tag
 nautilus_shell
 nether_brick
@@ -510,13 +486,11 @@ nether_quartz_ore
 nether_star
 nether_wart
 nether_wart_block
-nether_wart_stage2
 netherrack
 note_block
 oak_boat
 oak_button
 oak_door
-oak_door_bottom
 oak_fence
 oak_fence_gate
 oak_leaves
@@ -561,7 +535,6 @@ pink_wool
 piston
 sticky_piston
 podzol
-podzol_top
 poisonous_potato
 polished_andesite
 polished_diorite
@@ -639,9 +612,6 @@ redstone_ore
 redstone_torch
 repeater
 repeating_command_block
-repeating_command_block_conditional
-repeating_command_block_front
-repeating_command_block_side
 rose_bush_bottom
 rose_bush_top
 rose_red
@@ -680,8 +650,6 @@ sponge
 spruce_boat
 spruce_button
 spruce_door
-spruce_door_bottom
-spruce_door_top
 spruce_fence
 spruce_fence_gate
 spruce_leaves
