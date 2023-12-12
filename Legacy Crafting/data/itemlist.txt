@@ -519,7 +519,7 @@ oxeye_daisy
 packed_ice
 painting
 paper
-peony_top
+peony
 phantom_membrane
 pink_concrete
 pink_concrete_powder
@@ -613,7 +613,7 @@ redstone_torch
 repeater
 repeating_command_block
 rose_bush_bottom
-rose_bush_top
+rose_bush
 rose_red
 rotten_flesh
 ruby
@@ -638,7 +638,7 @@ slime_ball
 slime_block
 snow
 snowball
-snow_layer
+snow_block
 soul_sand
 spawn_egg
 spawn_egg_overlay
@@ -692,7 +692,7 @@ structure_block
 structure_void
 sugar
 sugar_cane
-sunflower_front
+sunflower
 tall_grass_top
 tall_seagrass_top
 terracotta
