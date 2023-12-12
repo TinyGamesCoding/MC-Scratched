@@ -398,6 +398,7 @@ leather_chestplate
 leather_chestplate_overlay
 leather_helmet
 leather_helmet_overlay
+leather_horse_armor
 leather_leggings
 leather_leggings_overlay
 lever
@@ -422,8 +423,8 @@ light_gray_terracotta
 light_gray_carpet
 light_gray_wool
 light_weighted_pressure_plate
-lilac_top
 lily_pad
+lilac
 lime_concrete
 lime_concrete_powder
 lime_dye
