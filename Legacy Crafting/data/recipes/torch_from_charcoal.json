@@ -9,8 +9,8 @@
       "item": "minecraft:stick"
     },
     "X": {
-        "item": "minecraft:coal"
-      }
+      "item": "minecraft:charcoal"
+    }
   },
   "result": {
     "item": "minecraft:torch",
