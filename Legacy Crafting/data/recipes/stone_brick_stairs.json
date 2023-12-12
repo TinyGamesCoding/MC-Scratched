@@ -6,9 +6,14 @@
     "###"
   ],
   "key": {
-    "#": {
-      "tag": "minecraft:stone_bricks"
-    }
+    "#": [
+      {
+        "item": "minecraft:stone_bricks"
+      },
+      {
+        "item": "minecraft:mossy_stone_bricks"
+      }
+    ]
   },
   "result": {
     "item": "minecraft:stone_brick_stairs",

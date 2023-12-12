@@ -3,7 +3,7 @@
   "group": "planks",
   "ingredients": [
     {
-      "tag": "minecraft:jungle_logs"
+      "item": "minecraft:jungle_log"
     }
   ],
   "result": {
