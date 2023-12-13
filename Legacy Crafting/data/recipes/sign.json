@@ -6,9 +6,26 @@
     " X "
   ],
   "key": {
-    "#": {
-      "tag": "minecraft:planks"
-    },
+    "#": [
+      {
+        "item": "minecraft:acacia_planks"
+      },
+      {
+        "item": "minecraft:birch_planks"
+      },
+      {
+        "item": "minecraft:dark_oak_planks"
+      },
+      {
+        "item": "minecraft:jungle_planks"
+      },
+      {
+        "item": "minecraft:oak_planks"
+      },
+      {
+        "item": "minecraft:spruce_planks"
+      }
+    ],
     "X": {
       "item": "minecraft:stick"
     }
