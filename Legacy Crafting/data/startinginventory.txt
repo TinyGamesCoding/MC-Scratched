@@ -16,9 +16,8 @@
 
 
 
-
-
-
+lapis_block^16
+leather^64
 wheat^30
 sugar^20
 egg^10
